@@ -14,6 +14,7 @@ namespace console1
             {
                 Console.WriteLine(i);
             }
+            console.readkey();
         }
     }
 }
