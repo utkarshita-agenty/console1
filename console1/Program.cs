@@ -10,7 +10,10 @@ namespace console1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hallo utkarshita");
+            for(int i=1;i<=10;i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
